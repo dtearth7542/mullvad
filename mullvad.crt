@@ -1,0 +1,90 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2040814 (0x1f23ee)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=NA, ST=None, L=None, O=Mullvad, CN=master.mullvad.net/emailAddress=info@mullvad.net
+        Validity
+            Not Before: Jan  1 00:00:00 2009 GMT
+            Not After : Jun 26 10:40:04 2026 GMT
+        Subject: CN=Mullvad866280609822
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:b8:7c:5f:98:ab:5b:57:04:a6:06:d7:67:e3:f8:
+                    24:3b:37:44:7d:8b:03:94:fa:d0:a9:99:85:ab:a8:
+                    0c:54:b4:34:69:5c:dd:d0:33:21:1e:92:52:3b:db:
+                    62:ac:e8:e3:90:7c:55:5d:ef:1a:05:39:6b:61:c5:
+                    6f:1d:4b:d2:7f:7d:ca:54:92:87:31:89:6a:71:92:
+                    cc:26:83:27:91:6e:60:13:3c:3a:71:6c:82:7c:6e:
+                    56:20:ba:0f:c0:91:92:60:61:45:e3:72:7c:4f:69:
+                    6c:b0:d8:3d:ab:e0:8e:8c:d4:67:77:51:d6:5f:61:
+                    9f:d6:31:95:38:4a:db:e4:fa:0f:53:8c:83:87:5a:
+                    b0:41:32:7d:ca:bf:53:33:aa:bb:b0:fb:6e:45:75:
+                    77:1a:70:e6:85:46:d7:28:14:48:ce:7a:84:81:45:
+                    77:05:2e:75:61:fe:1c:a6:78:1f:f3:46:c6:92:b3:
+                    bd:19:c6:1a:c4:6a:28:33:d6:5d:80:65:6c:c1:14:
+                    09:bd:b0:e1:f5:94:dd:28:d0:ee:d9:96:a5:fd:45:
+                    00:1f:e5:61:12:84:08:5d:f0:d5:72:1d:d1:97:87:
+                    a9:11:b2:57:d0:89:60:f9:27:a2:aa:01:40:b4:46:
+                    9a:34:a2:f3:f1:4f:6a:db:a7:c4:c0:e8:b2:c7:57:
+                    5e:d5
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                B4:6F:42:F1:54:3B:7D:0B:59:3D:0B:F1:A7:59:CE:F9:B0:5A:CA:E2
+            X509v3 Authority Key Identifier: 
+                keyid:75:8A:14:92:0D:F3:6E:B7:36:4F:8B:4F:15:6C:3F:18:15:90:64:DE
+                DirName:/C=NA/ST=None/L=None/O=Mullvad/CN=Mullvad CA/emailAddress=info@mullvad.net
+                serial:03
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         80:75:dc:83:33:a9:3a:e1:68:c6:f8:6a:e9:ab:31:c0:18:4c:
+         57:4c:53:b6:a5:9d:74:69:ca:ec:27:d7:07:db:85:7e:8f:60:
+         49:01:aa:bf:45:b8:b4:eb:5a:f9:37:fa:30:14:c7:06:d6:28:
+         6b:87:af:30:d7:26:3b:df:bd:c4:57:eb:fe:20:0b:15:f7:5d:
+         76:52:02:0f:5a:69:c6:a7:88:3e:cd:40:c5:d2:6b:84:d4:cb:
+         0c:a8:23:84:01:57:f8:ab:09:3b:f8:7f:0d:15:9a:39:87:1b:
+         1a:78:9f:16:2e:3f:2e:6a:a7:2a:23:b4:80:0e:1c:de:66:3b:
+         d9:af:af:16:91:b1:ec:b6:b5:03:1b:8d:cd:dd:a6:9c:b5:92:
+         8a:00:42:cf:4c:0a:55:b6:df:66:cd:31:02:87:fe:1c:f4:78:
+         79:a5:13:01:ab:f3:ca:d6:e9:96:3c:a9:53:4b:6a:4e:d5:4f:
+         6c:d3:e6:2f:22:a3:68:09:0c:f8:85:26:30:95:12:ae:3c:88:
+         7c:8d:75:9c:f1:18:3d:a3:0b:87:1b:fe:6d:f7:a7:21:9e:37:
+         d2:59:c4:97:41:cd:80:4f:51:3b:50:8d:d1:aa:7b:53:a8:d0:
+         56:db:82:1c:e2:7f:cd:88:be:0f:e7:15:64:09:ca:bb:27:84:
+         5f:1b:28:46
+-----BEGIN CERTIFICATE-----
+MIIENzCCAx+gAwIBAgIDHyPuMA0GCSqGSIb3DQEBBQUAMHsxCzAJBgNVBAYTAk5B
+MQ0wCwYDVQQIEwROb25lMQ0wCwYDVQQHEwROb25lMRAwDgYDVQQKEwdNdWxsdmFk
+MRswGQYDVQQDExJtYXN0ZXIubXVsbHZhZC5uZXQxHzAdBgkqhkiG9w0BCQEWEGlu
+Zm9AbXVsbHZhZC5uZXQwHhcNMDkwMTAxMDAwMDAwWhcNMjYwNjI2MTA0MDA0WjAe
+MRwwGgYDVQQDExNNdWxsdmFkODY2MjgwNjA5ODIyMIIBIjANBgkqhkiG9w0BAQEF
+AAOCAQ8AMIIBCgKCAQEAuHxfmKtbVwSmBtdn4/gkOzdEfYsDlPrQqZmFq6gMVLQ0
+aVzd0DMhHpJSO9tirOjjkHxVXe8aBTlrYcVvHUvSf33KVJKHMYlqcZLMJoMnkW5g
+Ezw6cWyCfG5WILoPwJGSYGFF43J8T2lssNg9q+COjNRnd1HWX2Gf1jGVOErb5PoP
+U4yDh1qwQTJ9yr9TM6q7sPtuRXV3GnDmhUbXKBRIznqEgUV3BS51Yf4cpngf80bG
+krO9GcYaxGooM9ZdgGVswRQJvbDh9ZTdKNDu2Zal/UUAH+VhEoQIXfDVch3Rl4ep
+EbJX0Ilg+SeiqgFAtEaaNKLz8U9q26fEwOiyx1de1QIDAQABo4IBHzCCARswCQYD
+VR0TBAIwADAtBglghkgBhvhCAQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRp
+ZmljYXRlMB0GA1UdDgQWBBS0b0LxVDt9C1k9C/GnWc75sFrK4jCBnQYDVR0jBIGV
+MIGSgBR1ihSSDfNutzZPi08VbD8YFZBk3qF3pHUwczELMAkGA1UEBhMCTkExDTAL
+BgNVBAgTBE5vbmUxDTALBgNVBAcTBE5vbmUxEDAOBgNVBAoTB011bGx2YWQxEzAR
+BgNVBAMTCk11bGx2YWQgQ0ExHzAdBgkqhkiG9w0BCQEWEGluZm9AbXVsbHZhZC5u
+ZXSCAQMwEwYDVR0lBAwwCgYIKwYBBQUHAwIwCwYDVR0PBAQDAgeAMA0GCSqGSIb3
+DQEBBQUAA4IBAQCAddyDM6k64WjG+GrpqzHAGExXTFO2pZ10acrsJ9cH24V+j2BJ
+Aaq/Rbi061r5N/owFMcG1ihrh68w1yY7373EV+v+IAsV9112UgIPWmnGp4g+zUDF
+0muE1MsMqCOEAVf4qwk7+H8NFZo5hxsaeJ8WLj8uaqcqI7SADhzeZjvZr68WkbHs
+trUDG43N3aactZKKAELPTApVtt9mzTECh/4c9Hh5pRMBq/PK1umWPKlTS2pO1U9s
+0+YvIqNoCQz4hSYwlRKuPIh8jXWc8Rg9owuHG/5t96chnjfSWcSXQc2AT1E7UI3R
+qntTqNBW24Ic4n/NiL4P5xVkCcq7J4RfGyhG
+-----END CERTIFICATE-----
